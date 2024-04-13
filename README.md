@@ -11,3 +11,6 @@ CheckTime:
 Script for returning the time of absence of the player in the game.
 script has a check and protection against time rewind,
 protection works both in online and offline sessions.
+
+ShareScreen:
+A script that implements a "share" button on ios and android with a daily click reward.
